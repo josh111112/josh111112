@@ -1,13 +1,17 @@
 name: Update README
 
 on:
-    schedule:
-        - cron: '0 0 * * *'
-    workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # Prevent infinite loop: skip runs triggered by the bot's own commits
+    if: github.actor != 'github-actions[bot]'
     permissions:
       contents: write
 
@@ -40,6 +44,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md temp.png
+          git add README.md temp.png stats.json
           git diff --cached --quiet || git commit -m "chore: update README and generated stats"
           git push
