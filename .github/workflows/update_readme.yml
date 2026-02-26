@@ -24,7 +24,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Setup Spotify Cache
-        run: echo "${{ secrets.SPOTIFY_CACHE }}" > .cache
+        env:
+          SPOTIFY_CACHE: ${{ secrets.SPOTIFY_CACHE }}
+        run: echo "$SPOTIFY_CACHE" > .cache
 
       - name: Run update script
         env:
