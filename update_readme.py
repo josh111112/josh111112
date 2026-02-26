@@ -156,7 +156,7 @@ else:
     print(f"Full scan: Lines Added: {total_additions} | Lines Removed: {total_deletions}")
 
 g.close()
-
+timestamp = datetime.now().timestamp()
 # Generate Markdown
 stats_md = f"""
 ## My GitHub Stats
@@ -170,7 +170,7 @@ stats_md = f"""
 ## Recently Played on Spotify
 **{track_name}**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v={timestamp})
 
 """
 
