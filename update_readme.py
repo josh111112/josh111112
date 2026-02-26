@@ -104,7 +104,7 @@ stats_md = f"""
 ## 🎵 Recently Played on Spotify
 **{track_name}**
 
-![My ascii art](temp.png)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true)
 
 """
 
