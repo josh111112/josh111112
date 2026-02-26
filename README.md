@@ -1,9 +1,21 @@
 # Hi there, I'm josh
 
-I'm a developer working on iOS apps and systems programming. 
+I am a developer that loves learning new things and building software that has real life impacts.
 
-### 🛠 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh111112&layout=compact&theme=radical&hide=html,css)
+<!-- START_STATS -->
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh111112&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+- **Public Repos:** 16
+- **Most Recent Repo:** josh111112
+- **Most Used Language:** JavaScript
+- **Commits This Year:** 0
+- **Lines Added:** 0 | **Lines Removed:** 0
+
+## 🎵 Recently Played on Spotify
+**Loading forever…. by Kinda Rad**
+
+![Alt text](temp.png)
+
+
+<!-- END_STATS -->

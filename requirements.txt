@@ -1,0 +1,5 @@
+spotipy
+PyGithub
+requests
+python-dotenv
+ascii_magic
