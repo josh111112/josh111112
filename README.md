@@ -1,6 +1,6 @@
 # Hi there, I'm josh
 
-I am a developer that loves learning new things and building software that has real life impacts.
+I am a developer that loves learning new things! You can find me delving into lots of different hobbies and exploring new music.
 
 <!-- START_STATS -->
 
