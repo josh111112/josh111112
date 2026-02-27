@@ -6,16 +6,16 @@ I am a developer that loves learning new things! In my free time you can find me
 
 ## My GitHub Stats
 
-- **Public Repos:** 16
-- **Most Recent Repo:** josh111112
+- **Public Repos:** 17
+- **Most Recent Repo:** WhatShouldIWatch
 - **Most Used Language:** Swift
-- **Commits This Year:** 63
-- **Lines Added:** ![Added](https://img.shields.io/badge/-12261-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5249-red?style=flat-square)
+- **Commits This Year:** 64
+- **Lines Added:** ![Added](https://img.shields.io/badge/-13263-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5539-red?style=flat-square)
 
 ## Recently Played on Spotify
-**フィジーSunburst by Webinar™**
+**Tom Sawyer by Rush**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772125961.982931)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772155179.598786)
 
 
 <!-- END_STATS -->
