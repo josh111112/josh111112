@@ -7,15 +7,15 @@ I am a developer that loves learning new things! In my free time you can find me
 ## My GitHub Stats
 
 - **Public Repos:** 17
-- **Most Recent Repo:** josh111112
+- **Most Recent Repo:** WhatShouldIWatch
 - **Most Used Language:** Swift
-- **Commits This Year:** 66
-- **Lines Added:** ![Added](https://img.shields.io/badge/-13264-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5540-red?style=flat-square)
+- **Commits This Year:** 67
+- **Lines Added:** ![Added](https://img.shields.io/badge/-13398-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5546-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Like U by Rosenfeld**
+**La vie en rose - Single Version by Louis Armstrong**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772159248.779174)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772169179.759057)
 
 
 <!-- END_STATS -->
