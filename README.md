@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-13398-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5546-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Black and Blue by Van Halen**
+**L-O-V-E by Nat King Cole**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772241429.767401)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772328547.634912)
 
 
 <!-- END_STATS -->
