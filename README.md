@@ -7,15 +7,15 @@ I am a developer that loves learning new things! In my free time you can find me
 ## My GitHub Stats
 
 - **Public Repos:** 17
-- **Most Recent Repo:** josh11112.github.io
+- **Most Recent Repo:** w26-Visible-LED-Innovation
 - **Most Used Language:** Swift
-- **Commits This Year:** 68
-- **Lines Added:** ![Added](https://img.shields.io/badge/-13440-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5600-red?style=flat-square)
+- **Commits This Year:** 79
+- **Lines Added:** ![Added](https://img.shields.io/badge/-13673-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-5653-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Unslept by Miraidempa**
+**Mary Jane by Rick James**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772414609.919547)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1772501050.161685)
 
 
 <!-- END_STATS -->
