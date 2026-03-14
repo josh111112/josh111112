@@ -6,16 +6,16 @@ I am a developer that loves learning new things! In my free time you can find me
 
 ## My GitHub Stats
 
-- **Public Repos:** 18
-- **Most Recent Repo:** josh111112
+- **Public Repos:** 17
+- **Most Recent Repo:** MuscleMap
 - **Most Used Language:** Swift
-- **Commits This Year:** 94
-- **Lines Added:** ![Added](https://img.shields.io/badge/-28721-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-15772-red?style=flat-square)
+- **Commits This Year:** 96
+- **Lines Added:** ![Added](https://img.shields.io/badge/-30339-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17285-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Don't You Worry 'Bout A Thing by Stevie Wonder**
+**Psycholoog by Lil Kleine**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773365245.463379)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773451398.530661)
 
 
 <!-- END_STATS -->
