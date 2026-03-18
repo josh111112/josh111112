@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-30825-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17414-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Расскажи мне всё by emosplash**
+**Bon Bon by Fcukers**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773710565.042557)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773797315.678161)
 
 
 <!-- END_STATS -->
