@@ -7,15 +7,15 @@ I am a developer that loves learning new things! In my free time you can find me
 ## My GitHub Stats
 
 - **Public Repos:** 17
-- **Most Recent Repo:** MuscleMap
+- **Most Recent Repo:** josh111112
 - **Most Used Language:** Swift
 - **Commits This Year:** 109
 - **Lines Added:** ![Added](https://img.shields.io/badge/-31195-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17550-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Stateside + Zara Larsson by PinkPantheress**
+**Uncover by Zara Larsson**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773883610.897186)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773969988.75264)
 
 
 <!-- END_STATS -->
