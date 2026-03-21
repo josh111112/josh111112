@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-31195-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17550-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Uncover by Zara Larsson**
+**I'll Wait - 2015 Remaster by Van Halen**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1773969988.75264)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1774056120.643979)
 
 
 <!-- END_STATS -->
