@@ -107,6 +107,8 @@ for repo in user.get_repos():
     # languages
     if repo.fork:
         continue
+    if repo.owner.login != user.login:
+        continue
     languages = repo.get_languages()
     for lang, bytes_count in languages.items():
         print(type(bytes_count), bytes_count)
