@@ -9,13 +9,13 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Public Repos:** 17
 - **Most Recent Repo:** josh111112
 - **Most Used Language:** Swift
-- **Commits This Year:** 109
-- **Lines Added:** ![Added](https://img.shields.io/badge/-31195-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17550-red?style=flat-square)
+- **Commits This Year:** 108
+- **Lines Added:** ![Added](https://img.shields.io/badge/-31198-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-17551-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Give up the Halfling by Howard Shore**
+**ABC by Turfy Gang**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1774142902.340544)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1774721229.029532)
 
 
 <!-- END_STATS -->
