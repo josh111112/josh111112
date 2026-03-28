@@ -99,6 +99,7 @@ print(f"Most Recent Repo: {most_recent.name}")
 print(g.get_rate_limit())
 
 # most used language + total commits this year
+headers = {"Authorization": f"Bearer {token}"}
 language_bytes = {}
 total_commits = 0
 current_year = datetime.now().year
@@ -107,7 +108,8 @@ for repo in user.get_repos(type="owner"):
     # languages
     if repo.fork:
         continue
-    languages = repo.get_languages()
+    response = requests.get(repo.languages_url, headers=headers)
+    languages = response.json()
     for lang, bytes_count in languages.items():
         print(type(bytes_count), bytes_count)
         language_bytes[lang] = language_bytes.get(lang, 0) + int(bytes_count)
