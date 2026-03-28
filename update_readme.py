@@ -103,11 +103,9 @@ language_bytes = {}
 total_commits = 0
 current_year = datetime.now().year
 since = datetime(current_year, 1, 1)
-for repo in user.get_repos():
+for repo in user.get_repos(type="owner"):
     # languages
     if repo.fork:
-        continue
-    if repo.owner.login != user.login:
         continue
     languages = repo.get_languages()
     for lang, bytes_count in languages.items():
