@@ -109,7 +109,8 @@ for repo in user.get_repos():
         continue
     languages = repo.get_languages()
     for lang, bytes_count in languages.items():
-        language_bytes[lang] = language_bytes.get(lang, 0) + bytes_count
+        print(type(bytes_count), bytes_count)
+        language_bytes[lang] = language_bytes.get(lang, 0) + int(bytes_count)
 
     # commits this year
     try:
