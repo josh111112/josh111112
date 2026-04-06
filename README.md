@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-34011-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-19162-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Wraiths on Wings by Howard Shore**
+**Leave You Alone by Sea of Lettuce**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1775353926.951308)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1775440418.218733)
 
 
 <!-- END_STATS -->
