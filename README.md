@@ -7,15 +7,15 @@ I am a developer that loves learning new things! In my free time you can find me
 ## My GitHub Stats
 
 - **Public Repos:** 18
-- **Most Recent Repo:** MuscleMap
+- **Most Recent Repo:** josh111112
 - **Most Used Language:** Swift
 - **Commits This Year:** 114
 - **Lines Added:** ![Added](https://img.shields.io/badge/-43359-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-19670-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Trout Quintet: Theme and variations by Franz Schubert**
+**Thailand by Malcolm Todd**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1775871039.625905)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1775958907.578913)
 
 
 <!-- END_STATS -->
