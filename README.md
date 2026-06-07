@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-47015-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-20028-red?style=flat-square)
 
 ## Recently Played on Spotify
-**ice - slowed by ZERTAL**
+**Carefree in the Chaos by Attaboy**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1780712792.598216)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1780800239.509729)
 
 
 <!-- END_STATS -->
