@@ -13,9 +13,9 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Lines Added:** ![Added](https://img.shields.io/badge/-47015-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-20028-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Youngest Daughter by Superheaven**
+**Highs 2 Lows by Nujabes**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1780971258.331983)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1781059072.683104)
 
 
 <!-- END_STATS -->
