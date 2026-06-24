@@ -6,16 +6,16 @@ I am a developer that loves learning new things! In my free time you can find me
 
 ## My GitHub Stats
 
-- **Public Repos:** 20
-- **Most Recent Repo:** MuscleMap
+- **Public Repos:** 21
+- **Most Recent Repo:** daily-habit-tracker
 - **Most Used Language:** Swift
-- **Commits This Year:** 152
-- **Lines Added:** ![Added](https://img.shields.io/badge/-53572-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-22284-red?style=flat-square)
+- **Commits This Year:** 154
+- **Lines Added:** ![Added](https://img.shields.io/badge/-64292-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-22285-red?style=flat-square)
 
 ## Recently Played on Spotify
-**Nutshell by Alice In Chains**
+**I Need You by Lynyrd Skynyrd**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1782181786.833457)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1782268226.020704)
 
 
 <!-- END_STATS -->
