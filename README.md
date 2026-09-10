@@ -9,12 +9,12 @@ I am a developer that loves learning new things! In my free time you can find me
 - **Public Repos:** 23
 - **Most Recent Repo:** MuscleMap
 - **Most Used Language:** Swift
-- **Commits This Year:** 200
+- **Commits This Year:** 201
 
 ## Recently Played on Spotify
-**Where'd All the Time Go? by Dr. Dog**
+**Walking On A Dream by Empire Of The Sun**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789054745.734112)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789054914.31658)
 
 
 <!-- END_STATS -->
