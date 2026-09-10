@@ -44,6 +44,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md temp.png stats.json
+          git add README.md temp.png
           git diff --cached --quiet || git commit -m "chore: update README and generated stats"
           git push

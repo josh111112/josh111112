@@ -6,16 +6,15 @@ I am a developer that loves learning new things! In my free time you can find me
 
 ## My GitHub Stats
 
-- **Public Repos:** 22
+- **Public Repos:** 23
 - **Most Recent Repo:** MuscleMap
 - **Most Used Language:** Swift
-- **Commits This Year:** 159
-- **Lines Added:** ![Added](https://img.shields.io/badge/-64992-brightgreen?style=flat-square) | **Lines Removed:** ![Removed](https://img.shields.io/badge/-22536-red?style=flat-square)
+- **Commits This Year:** 200
 
 ## Recently Played on Spotify
-**Fluorescent Adolescent by Arctic Monkeys**
+**Where'd All the Time Go? by Dr. Dog**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1782441286.05889)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789054745.734112)
 
 
 <!-- END_STATS -->
