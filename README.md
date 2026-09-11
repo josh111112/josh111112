@@ -55,14 +55,14 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 ## My GitHub Stats
 
 - **Public Repos:** 23
-- **Most Recent Repo:** josh111112
+- **Most Recent Repo:** chess-robot
 - **Most Used Language:** Swift
-- **Commits This Year:** 202
+- **Commits This Year:** 203
 
 ## Recently Played on Spotify
-**Everybody's Changing by Keane**
+**Les Fleurs by Minnie Riperton**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789056522.532168)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789099473.178464)
 
 
 <!-- END_STATS -->
