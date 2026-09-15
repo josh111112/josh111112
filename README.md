@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 203
 
 ## Recently Played on Spotify
-**Come Back - Buddha Remastered 2001 by The Five Stairsteps**
+**Limerence by Yves Tumor**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789359814.871379)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789446243.004674)
 
 
 <!-- END_STATS -->
