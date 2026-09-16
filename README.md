@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 203
 
 ## Recently Played on Spotify
-**Limerence by Yves Tumor**
+**Landline by binki**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789446243.004674)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789532379.401377)
 
 
 <!-- END_STATS -->
