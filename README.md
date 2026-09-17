@@ -55,14 +55,14 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 ## My GitHub Stats
 
 - **Public Repos:** 23
-- **Most Recent Repo:** josh111112
+- **Most Recent Repo:** musclemapwebsite
 - **Most Used Language:** Swift
-- **Commits This Year:** 203
+- **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Landline by binki**
+**Loverboy by A-Wall**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789532379.401377)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789619163.134422)
 
 
 <!-- END_STATS -->
