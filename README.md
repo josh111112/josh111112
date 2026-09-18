@@ -55,14 +55,14 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 ## My GitHub Stats
 
 - **Public Repos:** 23
-- **Most Recent Repo:** musclemapwebsite
+- **Most Recent Repo:** josh111112
 - **Most Used Language:** Swift
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Loverboy by A-Wall**
+**West End Girls - 2018 Remaster by Pet Shop Boys**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789619163.134422)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789704605.133097)
 
 
 <!-- END_STATS -->
