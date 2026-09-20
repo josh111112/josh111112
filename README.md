@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Mice on Venus by C418**
+**I Wish by Stevie Wonder**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789790799.788648)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789878357.654083)
 
 
 <!-- END_STATS -->
