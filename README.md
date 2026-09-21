@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**I Wish by Stevie Wonder**
+**Floating Trees by C418**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789878357.654083)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1789964639.884308)
 
 
 <!-- END_STATS -->
