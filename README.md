@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Dry Hands by C418**
+**Wet Hands by C418**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790223155.033826)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790310321.799419)
 
 
 <!-- END_STATS -->
