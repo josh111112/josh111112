@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**We Do What We Want - Edit by Alan Fitzpatrick**
+**Are You Satisfied? by The Rah Band**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790396983.249919)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790484454.645348)
 
 
 <!-- END_STATS -->
