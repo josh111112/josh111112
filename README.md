@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Caravan by John Wasson**
+**ティアーズ・オブ・ザ・スター by CASIOPEA**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790658909.175365)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790744561.96818)
 
 
 <!-- END_STATS -->
