@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**ティアーズ・オブ・ザ・スター by CASIOPEA**
+**Daphnis et Chloé: Daphnis et Chloe, Pt. III: Lever du jour by Maurice Ravel**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790744561.96818)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790831803.471301)
 
 
 <!-- END_STATS -->
