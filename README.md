@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Patient Zero by Taylor Swift**
+**Sextape by Deftones**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1790917503.376182)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791002892.754198)
 
 
 <!-- END_STATS -->
