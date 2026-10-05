@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 207
 
 ## Recently Played on Spotify
-**Agnus Dei by Samuel Barber**
+**Walk by Kodak Black**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791091246.555403)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791176638.380887)
 
 
 <!-- END_STATS -->
