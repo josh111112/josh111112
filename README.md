@@ -55,14 +55,14 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 ## My GitHub Stats
 
 - **Public Repos:** 23
-- **Most Recent Repo:** josh111112
+- **Most Recent Repo:** MuscleMap
 - **Most Used Language:** Swift
-- **Commits This Year:** 207
+- **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Walk by Kodak Black**
+**addiction by LONOWN**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791176638.380887)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791265876.710789)
 
 
 <!-- END_STATS -->
