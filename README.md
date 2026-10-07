@@ -55,14 +55,14 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 ## My GitHub Stats
 
 - **Public Repos:** 23
-- **Most Recent Repo:** MuscleMap
+- **Most Recent Repo:** josh111112
 - **Most Used Language:** Swift
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**addiction by LONOWN**
+**90210 (feat. Kacy Hill) by Travis Scott**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791265876.710789)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791350607.328088)
 
 
 <!-- END_STATS -->
