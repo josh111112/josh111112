@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Sunsetz by Cigarettes After Sex**
+**A Horse with No Name by America**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791695499.189288)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1791782708.639524)
 
 
 <!-- END_STATS -->
