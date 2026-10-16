@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Batman by mikeeysmind**
+**OH! TENGO SUERTE by Masayoshi Takanaka**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792037203.102419)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792123378.734259)
 
 
 <!-- END_STATS -->
