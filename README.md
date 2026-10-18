@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Risk by Deftones**
+**Duvet - Acoustic by bôa**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792209219.746717)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792296004.17614)
 
 
 <!-- END_STATS -->
