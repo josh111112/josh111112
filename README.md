@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Duvet - Acoustic by bôa**
+**Pressure - Alesso Remix by Nadia Ali**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792296004.17614)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792382958.542053)
 
 
 <!-- END_STATS -->
