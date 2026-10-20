@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Pressure - Alesso Remix by Nadia Ali**
+**Free Your Mind by Prospa**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792382958.542053)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792470107.182117)
 
 
 <!-- END_STATS -->
