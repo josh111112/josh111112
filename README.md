@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Cherry-coloured Funk by Cocteau Twins**
+**Die Jahreszeiten, Hob. XXI:3, Der Frühling: IV. Arie, "Schon eilet froh der Ackersmann" by Joseph Haydn**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792728903.465734)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1792814804.839313)
 
 
 <!-- END_STATS -->
