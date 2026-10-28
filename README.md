@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**byebye.wav - Slowed by SXCREDMANE**
+**show me by never easy**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793075517.770843)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793163836.295241)
 
 
 <!-- END_STATS -->
