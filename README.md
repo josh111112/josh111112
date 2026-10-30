@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Plush - 2017 Remaster by Stone Temple Pilots**
+**Message In A Bottle by The Police**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793250971.220881)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793337337.152537)
 
 
 <!-- END_STATS -->
