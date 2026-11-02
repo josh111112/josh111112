@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Just The Way You Are by Milky**
+**Have a Cigar by Pink Floyd**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793510947.928634)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793597264.147496)
 
 
 <!-- END_STATS -->
