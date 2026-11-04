@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Does Your Mother Know by ABBA**
+**Just The Way You Are by Milky**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793686009.294514)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793771125.648338)
 
 
 <!-- END_STATS -->
