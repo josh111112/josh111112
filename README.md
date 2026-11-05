@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Just The Way You Are by Milky**
+**You've Seen the Butcher by Deftones**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793771125.648338)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793858626.177762)
 
 
 <!-- END_STATS -->
