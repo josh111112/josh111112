@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**BRASILIAN SKIES by Masayoshi Takanaka**
+**Gimme That Bounce by Mau P**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1793944733.714428)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794029435.939167)
 
 
 <!-- END_STATS -->
