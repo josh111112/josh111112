@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**F Song by Strawberry Guy**
+**Sweet Boy by Malcolm Todd**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794465932.517592)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794549703.479516)
 
 
 <!-- END_STATS -->
