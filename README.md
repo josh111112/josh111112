@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**Mr. Incorrect by Malcolm Todd**
+**It's Beginning to Look a Lot like Christmas by Michael Bublé**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794721879.961825)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794808255.185767)
 
 
 <!-- END_STATS -->
