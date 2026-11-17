@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 216
 
 ## Recently Played on Spotify
-**It's Beginning to Look a Lot like Christmas by Michael Bublé**
+**Drops Of Skies by Bewegtes**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794808255.185767)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794900505.018691)
 
 
 <!-- END_STATS -->
