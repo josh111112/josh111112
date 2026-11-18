@@ -57,12 +57,12 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Public Repos:** 23
 - **Most Recent Repo:** Agentic-Dyslexic-Trader
 - **Most Used Language:** Swift
-- **Commits This Year:** 216
+- **Commits This Year:** 219
 
 ## Recently Played on Spotify
-**Drops Of Skies by Bewegtes**
+**Walking Around by Jeremy Groove**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794900505.018691)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1794984771.877653)
 
 
 <!-- END_STATS -->
