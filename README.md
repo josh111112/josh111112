@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 219
 
 ## Recently Played on Spotify
-**Subwoofer Lullaby by C418**
+**i think i love you by Money Flip**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795071212.349316)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795156995.767872)
 
 
 <!-- END_STATS -->
