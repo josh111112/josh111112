@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 219
 
 ## Recently Played on Spotify
-**Mary Jane's Last Dance by Tom Petty and the Heartbreakers**
+**Drag Path by Twenty One Pilots**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795327448.833143)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795416984.852913)
 
 
 <!-- END_STATS -->
