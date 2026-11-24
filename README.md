@@ -54,15 +54,15 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 
 ## My GitHub Stats
 
-- **Public Repos:** 23
-- **Most Recent Repo:** Agentic-Dyslexic-Trader
+- **Public Repos:** 24
+- **Most Recent Repo:** apartment-finder
 - **Most Used Language:** Swift
-- **Commits This Year:** 219
+- **Commits This Year:** 223
 
 ## Recently Played on Spotify
-**Drag Path by Twenty One Pilots**
+**ザ・ワード II by SHIGEO SEKITO**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795416984.852913)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795512181.140153)
 
 
 <!-- END_STATS -->
