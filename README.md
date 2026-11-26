@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 223
 
 ## Recently Played on Spotify
-**escape by jacal**
+**pulled apart by Medasin**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795593347.271353)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795679222.162912)
 
 
 <!-- END_STATS -->
