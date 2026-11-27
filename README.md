@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 223
 
 ## Recently Played on Spotify
-**pulled apart by Medasin**
+**Obsessica by Malcolm Todd**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795679222.162912)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795765573.851275)
 
 
 <!-- END_STATS -->
