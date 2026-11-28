@@ -60,9 +60,9 @@ I am a developer that loves engineering stuff and learning new things! In my fre
 - **Commits This Year:** 223
 
 ## Recently Played on Spotify
-**Obsessica by Malcolm Todd**
+**Cowboys and Angels - Edit by George Michael**
 
-![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795765573.851275)
+![My ascii art](https://github.com/josh111112/josh111112/blob/main/temp.png?raw=true&v=1795850101.993419)
 
 
 <!-- END_STATS -->
